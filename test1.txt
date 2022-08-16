@@ -1,11 +1,1 @@
- Volume in drive E has no label.
- Volume Serial Number is B40D-55AF
-
- Directory of E:\Git\Myfolder
-
-08/16/2022  01:29 PM    <DIR>          .
-08/16/2022  01:29 PM    <DIR>          ..
-08/16/2022  01:28 PM    <DIR>          .git
-08/16/2022  01:29 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               3 Dir(s)  691,441,299,456 bytes free
+change 1
